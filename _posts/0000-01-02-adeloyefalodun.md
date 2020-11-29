@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Stay focus" -Adeloye
+"just do it.md" -Nike
 Use the left arrow to go back!
